@@ -1,0 +1,20 @@
+antonio:bl7fRbmTpgVf2:501:501:Antonio Pirelli:/home/antonio:/bin/zsh
+faker:Rkzep.UtarSgI:502:502:Faker Englund:/home/faker:/bin/bash
+hugo:BcLRzUvbC5hyU:503:503:Hugo Z. Hackenbush:/home/hugo:/bin/zsh
+sam:9ReGbGp0Uwc8Q:504:504:Sam Grunion:/home/sam:/bin/bash
+lionel:mRPWfl4yQMvTs:505:505:Lionel Q. Devereaux:/home/lionel:/bin/dash
+suzanna:yEU3VwB6zENMU:506:506:Suzanna Dukesbury:/home/suzanna:/bin/csh
+quincy:fIw7Ac9X4qUbs:507:507:Quincy Adams Wagstaff:/home/quincy:/bin/zsh
+frank:RBW2Pme2351x2:508:508:Frank Wagstaff:/home/frank:/bin/bash
+benjamin:YwexEikZXFjsM:509:509:Benjamin Franklin Linn:/home/benjamin:/bin/bash
+emile:.j8WLHeOY2ROw:510:510:Emile J. Keck:/home/emile:/bin/zsh
+joe:.tveI7Dkb1LJ.:511:511:Joe Panello:/home/joe:/bin/ksh
+ronald:hv9a4f.PDSmMo:512:512:Ronald Kornblow:/home/ronald:/bin/bash
+arabella:TKKqQlUejlFjU:513:513:Arabella Rittenhouse:/home/arabella:/bin/zsh
+rufus:l7DYMVZx.A2Mo:514:514:Rufus T. Firefly:/home/rufus:/bin/bash
+quentin:cXuKjXfZYe3KQ:515:515:S. Quentin Quale:/home/quentin:/bin/ksh
+otis:5b7Nd3O4309so:516:516:Otis B. Driftwood:/home/otis:/bin/bash
+sammy:.CQgdiLjtyzvw:517:517:Sammy Brown:/home/sammy:/bin/zsh
+emmanuel:PDfFLcPZ0bFcQ:518:518:Emmanuel Ravelli:/home/emmanuel:/bin/bash
+rusty:fei6MtWV5nsWg:519:519:Rusty Panello:/home/rusty:/bin/bash
+gordon:wvdNlls//sK0w:520:520:Gordon Miller:/home/gordon:/bin/bash
